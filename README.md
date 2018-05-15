@@ -1,0 +1,2 @@
+# FP_12
+ Kami memberi judul Shoes-Store karena kami pecinta sepatu dan pengoleksi sepatu-sepatu mulai dari hobi maka kelompok kami membuat template tentang sepatu. Maka dari itu kami melihat prospek ke depannya sepatu lebih di butuhkan atau sudah sangat menjadi kebutuhan wajib baik oleh kalangan anak-anak sampai orang dewasa. Dengan adanya kami membuat template ini, kami mampu memberi kesempatan kepada produksi sepatu agar lebih mudah mempromosikan barangnya.
